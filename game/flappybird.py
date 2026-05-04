@@ -2,7 +2,6 @@ import pygame
 from pygame.locals import *
 import random
 pygame.init()
-
 clock = pygame.time.Clock()
 fps = 60
 
@@ -23,7 +22,7 @@ ground_scroll = 0
 scroll_speed = 4
 flying = False
 game_over = False
-pipe_gap = 200
+pipe_gap = 225
 pipe_freq = 1500 #1.5s
 last_pipe = pygame.time.get_ticks() - pipe_freq
 score = 0

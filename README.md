@@ -16,7 +16,7 @@ Coursework repository for CITS5508 (Machine Learning), including weekly labs, as
 1. Create the Conda environment:
    `conda env create -f cits5508-2026.yml`
 2. Activate the environment:
-   `conda activate cits5508-2026`
+   `conda activate cits5508`
 3. Open notebooks from any lab or assignment folder in Jupyter.
 
 ## Notes
